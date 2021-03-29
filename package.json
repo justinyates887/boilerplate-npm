@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Justin Yates",
 	"description": "A project to learn packaging",
+	"keywords": ["freecodecamp", "challenge", "apis", "microservices"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
