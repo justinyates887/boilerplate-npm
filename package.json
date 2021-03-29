@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Justin Yates",
+	"description": "A project to learn packaging",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
